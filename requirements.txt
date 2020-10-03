@@ -2,3 +2,4 @@ streamlit
 backtrader
 pandas
 yfinance
+pytest
